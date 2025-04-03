@@ -1,0 +1,369 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: f01;
+  src: url(https://static.oriflame.com/fonts/v2/fonts/sans-bold.woff2);
+}
+@font-face {
+  font-family: f02;
+  src: url(https://static.oriflame.com/fonts/v2/fonts/sans-regular.woff2);
+}
+
+
+
+/* styles for js */
+
+.underline{
+  text-decoration: underline;
+}
+.shops{
+  background-color: #4e4e4e;
+}
+.color{
+  color: #555555;
+}
+.scale{
+  transform: scale(1.1);
+}
+.brw{
+  background-color: #666666;
+}
+.vie{
+  background-color: #E5E5E5;
+}
+
+
+.undrln{
+  text-decoration: 1px solid black underline ;
+}
+.child{
+    height: 0;
+    opacity: 0;
+    display: none;
+}
+.vis{
+    height: auto ;
+    opacity: 1 ;
+    display: block;
+}
+.rot{
+    transform: rotate(180deg);
+}
+.textColor{
+    color: #227c66 !important;
+ 
+}
+.textColor02{
+    color: #aaaaaa !important;
+ 
+}
+.shadow01{
+    box-shadow: 0 2px 3px  rgba(173, 173, 173, 0.39);
+    
+ 
+}
+.bg6f{
+    background-color: #ffffff;
+}
+.left18{
+    left: -18px !important;
+}
+.blure{
+    backdrop-filter: blur(2px);
+    background-color: rgba(0, 0, 0, 0.183);
+    z-index: 400;
+    display: block;
+}
+.notBlure{
+    z-index: 500;
+}
+.bgN{
+    background-color: #dddcf2;
+}
+.bgS{
+    background-color: #effbfb;
+}
+.child02{
+    width: calc(103vw - 347px);
+}
+.child03{
+    width: 59.3vw;
+}
+.textNu{
+    color: #777777;
+ 
+}
+.display01{
+    display: none;
+}
+.display02{
+    display: flex;
+}
+.bgButton{
+    background: #666666 !important;
+}
+.rotate01{
+    transform: rotate(45deg);
+    top: 15px;
+}
+.rotate02{
+    transform: rotate(-45deg);
+    top: 15px;
+}
+.rightop{
+    left: 31px;
+    opacity: 0;
+}
+.left-30{
+    left:-30px;
+ 
+}
+.seeall{
+    color:#999999 !important ;
+    text-decoration:#999999 !important ;
+}
+.shops{
+    background-color: #4e4e4e;
+}
+ 
+.bge5e5e5{
+  z-index: 100;
+  background: #e5e5e5;
+}
+.bgimg{
+  
+  background-image: url(https://media-cdn.oriflame.com/digitalPromotionsMedia/images/banner-media/UK/20247310/20193154.jpg?version=2&w=1300&bc=%23f5f5f5&ib=%23f5f5f5&q=90&imageFormat=WebP);
+}
+.wsec06{
+  width: calc(100% - 650px);
+}
+.Bsection{
+  z-index:2;
+
+}
+.bmosls{
+  border-top: 50px solid transparent;
+  border-bottom: 50px solid transparent;
+  border-left: 100px solid #ffffff;
+  border-radius: 10px;
+}
+.bswig07{
+  display: block;
+  
+
+}
+.nextOpreve07{
+  opacity: 1;
+  animation: ripple 0.6s ease-out forwards;
+}
+@keyframes ripple {
+  to 
+ {
+     transform: scale(9);
+     opacity: 0;
+ }
+}
+html,
+body {
+ position: relative;
+ height: 100%;
+}
+
+body {
+ font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+ font-size: 14px;
+ color: #000;
+ margin: 0;
+ padding: 0;
+}
+
+.swiper {
+ width: 100%;
+ height: 100%;
+}
+
+.swiper-slide {
+ text-align: center;
+ font-size: 18px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.swiper-slide img {
+ display: block;
+ width: 100%;
+ object-fit: cover;
+}
+.bgsec10{
+  background-color: #e5e5e5;
+}
+.gray{
+  filter: brightness(55%);
+}
+.lpofotr{
+  border-right: 7.5px solid transparent;
+  border-left: 7.5px solid transparent;
+  border-top: 7.8px solid #eaeaea;
+}
+.lpofotr00{
+  opacity: 1;
+  scale: 1.1;
+}
+.mf01p{
+  padding-left: 35px;
+  width: 190px;
+}
+.mf02p{
+  width: 210px;
+
+}
+.bgGoToBasket{
+  background-color: #1f1f1fad;
+}
+.textBag{
+  color: #1f1f1f53;
+}
+.displayBag{
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* swiper style */
+
+
+div.section01>div.swiper-section01>div.swiper-pagination>span.swiper-pagination-bullet{
+  width: 35px;
+  height: 6px;
+  border-radius: 20px;
+  background-color: #ffffffe7;
+}
+
+@keyframes bullet {
+  0%{
+      clip-path: inset(0 100% 0 0);
+  }
+  100%{
+      clip-path: inset(0 0 0 0);
+  }
+}
+span.swiper-pagination-bullet-active {
+  animation: bullet 11000ms infinite ;
+}
+
+div.wrapper>div.section02>div.swiper-slider02>div.swiper-button-next:after, div.swiper-button-prev:after {
+  width: 48px;
+  height: 51px;
+  background-color: #FAFAFA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: -10px;
+  font-size: 10px;
+  color: #464646;
+}
+div.wrapper>div.section02>div.swiper-slider02>div.swiper-button-next:after, div.swiper-button-prev:after {
+ width: 48px;
+ height: 51px;
+ background-color: #FAFAFA;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: absolute;
+ right: -10px;
+ font-size: 10px;
+ color: #464646;
+}
+div.wrapper>div.section07>div.Ssection07>div.swiper-slider07>div.swiper-button-next:after{
+ width: 45px;
+ height: 45px;
+ background-color: #FAFAFA;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: absolute;
+ right: -5px;
+ font-size: 15px;
+ color: #464646;
+ border-radius: 50%;
+ overflow: hidden;
+ bottom: -150px;
+ box-shadow: 0px 0px 4px  #8f8f905c;
+ 
+}
+div.wrapper>div.section07>div.Ssection07>div.swiper-slider07>div.swiper-button-prev:after {
+ width: 45px;
+ height: 45px;
+ background-color: #FAFAFA;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: absolute;
+ left: -5px;
+ font-size: 15px;
+ color: #464646;
+ border-radius: 50%;
+ overflow: hidden;
+ bottom: -150px;
+ box-shadow: 0px 0px 4px  #8f8f905c;
+ 
+}
+div.wrapper>div.section07>div.Bsection07>div.swiper>div.swiper-button-next:after{
+ width: 45px;
+ height: 45px;
+ background-color: #FAFAFA;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: absolute;
+ right: 20px;
+ font-size: 15px;
+ color: #464646;
+ border-radius: 50%;
+ overflow: hidden;
+ bottom: -218px;
+ box-shadow: 0px 0px 4px  #8f8f905c;
+ 
+}
+div.wrapper>div.section07>div.Bsection07>div.swiper>div.swiper-button-prev:after {
+ width: 45px;
+ height: 45px;
+ background-color: #FAFAFA;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: absolute;
+ left: -10px;
+ font-size: 15px;
+ color: #464646;
+ border-radius: 50%;
+ overflow: hidden;
+ bottom: -218px;
+ box-shadow: 0px 0px 4px  #8f8f905c;
+}
+
+
+
+
+
+
+
+/*  */
+
+
+
+
+
+
+
+
+
+
+

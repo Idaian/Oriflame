@@ -1,0 +1,918 @@
+{
+  "offer": [
+      {
+          "text": "Get a personalised routine – Scan your skin!"
+      },
+      {
+          "text": "Enjoy free shipping over £45 as a VIP!"
+      },
+      {
+          "text": "Discover our Best Offers!"
+      },
+      {
+          "text": "Shop Icons: Our most loved products"
+      }
+  ],
+
+  "smenu": [
+  {
+    "color": "bg-[#685bc7]",
+    "text": "Nutrition"
+  },
+  {
+    "color": "bg-[#91e7e3]",
+    "text": "Skincare"
+  },
+  {
+    "color": "bg-[#e793b7]",
+    "text": "Makeup"
+  },
+  {
+    "color": "bg-[#afa69e]",
+    "text": "Fragrance"
+  },
+  {
+    "color": "bg-[#2774ae]",
+    "text": "Bath & Body"
+  },
+  {
+    "color": "bg-[#f0c264]",
+    "text": "Hair"
+  },
+  {
+    "color": "bg-[#ff8072]",
+    "text": "Accessories"
+  },
+  {
+    "color": "bg-[#007681]",
+    "text": "Men"
+  },
+  {
+    "color": "bg-[#7ed1ea]",
+    "text": "Kids & Body"
+  }
+  ],
+
+  "smenu02": [
+  {
+    "text": "New"
+  },
+  {
+    "text": "Icons"
+  },
+  {
+    "text": "Bestsellers"
+  },
+  {
+    "text": "Sample Shop"
+  },
+  {
+    "text": "Outlet"
+  },
+  {
+    "text": "Beauty Rewards Programme"
+  }
+  ],
+
+  "smenu03": [
+  {
+    "text": "Who we are"
+  },
+  {
+    "text": "Product Philosophy"
+  },
+  {
+    "text": "Sustainability"
+  }
+  ],
+  
+  "Nutrition": [
+  {
+    "text": "All Nutrition",
+    "font": "f02"
+  },
+  {
+    "text": "Beauty",
+    "font": "f01"
+  },
+  {
+    "text": "Daily welbeing",
+    "font": "f01"
+  },
+  {
+    "text": "Gut Health",
+    "font": "f01"
+  },
+  {
+    "text": "Healthy ageing",
+    "font": "f01"
+  },
+  {
+    "text": "Immunity",
+    "font": "f01"
+  },
+  {
+    "text": "Immunity",
+    "font": "f01"
+  },
+  {
+    "text": "Kids",
+    "font": "f01"
+  },
+  {
+    "text": "Weight management",
+    "font": "f01"
+  },
+  {
+    "text": "Brands",
+    "font": "f01"
+  }
+  ],
+
+  "Skincare": [
+  {
+    "text": "What's new",
+    "font": "f02",
+    "aro": " hidden"
+  },
+  {
+    "text": "All Skincare",
+    "font": "f02",
+    "aro": " hidden"
+  },
+  {
+    "text": "Moisturisers",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Eye care",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Cleansers",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Lip care",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Serum & Treatment",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Eye & Lip care",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Treatments",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Concerns",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Toner,Essences,and Mist",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Mask",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Sun care",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Skincare routines",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Skin care tools",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Skin care sets",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Toner essences & Mist",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Teenage skincare",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Skincare tools and",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  },
+  {
+    "text": "Gifts",
+    "font": "f01",
+    "aro": " hidden"
+  },
+  {
+    "text": "Brands",
+    "font": "f01",
+    "aro": "fas fa-chevron-down absolute right-[15px] top-[17px] text-[12px] transition-all duration-[300ms] "
+  }
+  ],
+
+  "Inspiratie": [
+  {
+    "text": "Beauty Hub"
+  },
+  {
+    "text": "Novage+"
+  },
+  {
+    "text": "Ingrediëntenlijst"
+  },
+  {
+    "text": "Wellosophy"
+  },
+  {
+    "text": "Foundation Finder"
+  },
+  {
+    "text": "#Oriflame Talks"
+  }
+  ],
+
+  "Ins": [
+  {
+    "img": "https://media-cdn.oriflame.com/contentImage?externalMediaId=b5ca6ebd-5fae-452b-bf15-551eafdc5141&name=BeautyInsights_360x360&inputFormat=jpg&w=320&bc=%23f5f5f5&ib=%23f5f5f5&q=90&imageFormat=WebP",
+    "text": "BEAUTY INSIGHTS HUB"
+  },
+  {
+    "img": "./public/img/02/02.jpg",
+    "text": "WELLOSOPHY"
+  },
+  {
+    "img": "./public/img/02/03.jpg",
+    "text": "NOVAGE+"
+  },
+  {
+    "img": "./public/img/02/04.jpg",
+    "text": "INGREDIANT LIBRARY"
+  },
+  {
+    "img": "./public/img/02/05.jpg",
+    "text": "FOUNDATION FINDER"
+  },
+  {
+    "img": "./public/img/02/06.jpg",
+    "text": "ICONS"
+  },
+  {
+    "img": "./public/img/02/07.jpg",
+    "text": "#ORIFLAMETALKS"
+  }
+  ],
+
+  "Nutr": [
+  {
+    "text": "Beauty"
+  },
+  {
+    "text": "Daily wellbeing"
+  },
+  {
+    "text": "Gut Health"
+  },
+  {
+    "text": "Healthy ageing"
+  },
+  {
+    "text": "Immunity"
+  },
+  {
+    "text": "Kids"
+  },
+  {
+    "text": "Weight management"
+  },
+  {
+    "text": "Brands"
+  }
+  ],
+
+  "section01": [
+      {
+          "img":"../public/img/01/2.webp",
+          "imgmd":"../public/img/01/1.webp",
+          "span":"LAST CHANCE TO ORDER",
+          "h2":"The ultimate Mother's Day gift",
+          "shop":"SHOP NOW",
+          "colorr":"3333333",
+          "margin":"60px"
+      },
+      {
+          "img":"../public/img/01/3.webp",
+          "imgmd":"../public/img/01/4.webp",
+          "span":"NEW! THE ONE STRESS-FREE FOUNDATION",
+          "h2":"Blur signs of stress on your skin",
+          "shop":"SHOP NOW",
+          "colorr":"#FFFFFF",
+          "margin":"60px"
+      },
+      {
+          "img":"../public/img/01/5.webp",
+          "imgmd":"../public/img/01/6.webp",
+          "span":"NEW & IMPROVED GIORDANI GOLD FRAGRANCES",
+          "h2":"Aqua scent for him and floral one for her",
+          "shop":"SHOP BOTH HERE",
+          "colorr":"#FFFFFF",
+          "margin":"10px"
+      }
+
+
+  ],
+
+  "section02":[
+      {
+          "text":"ECATALOGUE"
+      },
+      {
+          "text":"NUTRITON"
+      },
+      {
+          "text":"SKINCARE"
+      },
+      {
+          "text":"MAKEUP"
+      },
+      {
+          "text":"FRAGRANCE"
+      },
+      {
+          "text":"BATH & BODY"
+      },
+      {
+          "text":"HAIR"
+      },
+      {
+          "text":"ACCESSORIES"
+      },
+      {
+          "text":"MEN"
+      },
+      {
+          "text":"KIDS & BABY"
+      }
+  ],
+
+  "section03":[
+      {
+          "img":"../public/img/03/1.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"3",
+          "new":"NEW",
+          "h6":"THE ONE",
+          "span":"Everlasting Sync Stress-Free Foundation SPF 20 + UVA protection Natural",
+          "money":"£9.99",
+          "realmoney":"£14.50"
+      },
+      {
+          "img":"../public/img/03/2.webp",
+          "star":"../../../public/img/star-w.svg",
+          "number":"0",
+          "new":"NEW",
+          "h6":"DUOLOGI",
+          "span":"Curl Defining Shampoo",
+          "money":"£6.99",
+          "realmoney":"£10.00"
+      }
+  ],
+  
+  "section03sm":[
+      {
+          "img":"../public/img/03/1.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"3",
+          "new":"NEW",
+          "h6":"THE ONE",
+          "span":"Everlasting Sync Stress-Free Foundation SPF 20 + UVA protection Natural",
+          "money":"£9.99",
+          "realmoney":"£14.50",
+          "mood":"inline-block",
+          "display":"inline-block"
+      },
+      {
+          "img":"../public/img/03/2.webp",
+          "star":"../../../public/img/star-w.svg",
+          "number":"0",
+          "new":"NEW",
+          "h6":"DUOLOGI",
+          "span":"Curl Defining Shampoo",
+          "money":"£6.99",
+          "realmoney":"£10.00",
+          "mood":"inline-block",
+          "display":"inline-block"
+      },
+      {
+          "img":"../public/img/03/3.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"4",
+          "new":"NEW",
+          "h6":"LOVE POTION",
+          "span":"Cherry on Top Eau de Parfum",
+          "money":"£22.99",
+          "realmoney":"£37.00",
+          "mood":"inline-block",
+          "display":"hidden"
+      }
+  ],
+
+  "section04":[
+      {
+          "img":"../public/img/04/1.webp",
+          "star":"../../../public/img/star-w.svg",
+          "number":"0",
+          "new":"NEW",
+          "h6":"THE ONE",
+          "span":"5 in 1 Wonder Lash Prom Queen Mascara - Black",
+          "money":"£6.99",
+          "color":"#DB3E05",
+          "off":"£13.00"
+      },
+      {
+          "img":"../public/img/04/2.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"502",
+          "new":"",
+          "h6":"MILK & HONEY GOLD",
+          "span":"Nourishing Hand & Body Cream",
+          "money":"£12.00",
+          "color":"#333333",
+          "off":""
+      },
+      {
+          "img":"../public/img/04/3.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"248",
+          "new":"",
+          "h6":"TENDER CARE",
+          "span":"Sweet Mandarin Multi-purpose Balm",
+          "money":"£8.50",
+          "color":"#333333",
+          "off":""
+      },
+      {
+          "img":"../public/img/04/4.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"341",
+          "new":"" ,
+          "h6":"GIORDANI GOLD",
+          "span":"Serum Infused Bronzing Pearls",
+          "money":"£14.99",
+          "color":"#DB3E05",
+          "off":"£25.00"
+      }
+  ],
+
+  "section04sm":[
+      {
+        "img":"../public/img/04/1.webp",
+          "star":"../../../public/img/star-w.svg",
+          "number":"0",
+          "new":"NEW",
+          "h6":"THE ONE",
+          "span":"5 in 1 Wonder Lash Prom Queen Mascara - Black",
+          "money":"£6.99",
+          "color":"#DB3E05",
+          "off":"£13.00",
+          "lg":"inline-block",
+          "display":"inline-block"
+      },
+      {
+        "img":"../public/img/04/2.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"502",
+          "new":"",
+          "h6":"MILK & HONEY GOLD",
+          "span":"Nourishing Hand & Body Cream",
+          "money":"£12.00",
+          "color":"#333333",
+          "off":"",
+          "lg":"inline-block",
+          "display":"inline-block"
+      },
+      {
+        "img":"../public/img/04/3.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"248",
+          "new":"",
+          "h6":"TENDER CARE",
+          "span":"Sweet Mandarin Multi-purpose Balm",
+          "money":"£8.50",
+          "color":"#333333",
+          "off":"",
+          "lg":"inline-block",
+          "display":"hidden"
+      },
+      {
+        "img":"../public/img/04/4.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"341",
+          "new":"" ,
+          "h6":"GIORDANI GOLD",
+          "span":"Serum Infused Bronzing Pearls",
+          "money":"£14.99",
+          "color":"#DB3E05",
+          "off":"£25.00",
+          "lg":"hidden",
+          "display":"hidden"
+      }
+  ],
+
+  "section05":[
+      {
+        "img":"../public/img/05/1.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"314",
+          "new":"",
+          "h6":"POSSESS",
+          "span":"Absolute Eau de Parfum",
+          "money":"£27.99",
+          "off":"£47.00"
+      },
+      {
+        "img":"../public/img/05/2.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"330",
+          "new":"",
+          "h6":"GIORDANI GOLD",
+          "span":"Eternal Glow Foundation SPF 25",
+          "money":"£13.99",
+          "off":"£25.00"
+      },
+      {
+        "img":"../public/img/05/3.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"289",
+          "new":"",
+          "h6":"GIORDANI GOLD",
+          "span":"Woman Eau de Parfum",
+          "money":"£19.99",
+          "off":"£40.00"
+      },
+      {
+        "img":"../public/img/05/4.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"460",
+          "new":"" ,
+          "h6":"AMBER ELIXIR",
+          "span":"Eau de Parfum",
+          "money":"£19.99",
+          "off":"£40.00"
+      }
+  ],
+
+  "section05sm":[
+      {
+        "img":"../public/img/05/1.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"314",
+          "new":"",
+          "h6":"POSSESS",
+          "span":"Absolute Eau de Parfum",
+          "money":"£27.99",
+          "off":"£47.00",
+          "mood":"inline-block",
+          "display":"inline-block"
+      },
+      {
+        "img":"../public/img/05/2.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"330",
+          "new":"",
+          "h6":"GIORDANI GOLD",
+          "span":"Eternal Glow Foundation SPF 25",
+          "money":"£13.99",
+          "off":"£25.00",
+          "mood":"inline-block",
+          "display":"inline-block"
+      },
+      {
+        "img":"../public/img/05/3.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"289",
+          "new":"",
+          "h6":"GIORDANI GOLD",
+          "span":"Woman Eau de Parfum",
+          "money":"£19.99",
+          "off":"£40.00",
+          "mood":"inline-block",
+          "display":"hidden"
+      },
+      {
+        "img":"../public/img/05/4.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"460",
+          "new":"" ,
+          "h6":"AMBER ELIXIR",
+          "span":"Eau de Parfum",
+          "money":"£19.99",
+          "off":"£40.00",
+          "mood":"hidden",
+          "display":"hidden"
+      }
+  ],
+
+  "section06":[
+      {
+        "img":"../public/img/06/1.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"17",
+          "coming":"COMING BACK SOON",
+          "h6":"WELLOSOPHY",
+          "span":"Probiotic L. plantarum 299V™",
+          "money":"£32.99",
+          "off":"£39.99"
+      },
+      {
+        "img":"../public/img/06/2.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"330",
+          "coming":"",
+          "h6":"WELLOSOPHY",
+          "span":"Astaxanthin & Bilberry Extract",
+          "money":"£19.99",
+          "off":"£24.99"
+      }
+  ],
+
+  "section06sm":[
+      {
+        "img":"../public/img/06/1.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"17",
+          "coming":"COMING BACK SOON",
+          "h6":"WELLOSOPHY",
+          "span":"Probiotic L. plantarum 299V™",
+          "money":"£32.99",
+          "off":"£39.99",
+          "mood":"inline-block",
+          "display":"inline-block"
+      },
+      {
+        "img":"../public/img/06/2.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"330",
+          "coming":"",
+          "h6":"WELLOSOPHY",
+          "span":"Astaxanthin & Bilberry Extract",
+          "money":"£19.99",
+          "off":"£24.99",
+          "mood":"inline-block",
+          "display":"inline-block"
+      },
+      {
+        "img":"../public/img/06/3.webp",
+          "star":"../../../public/img/star-b.svg",
+          "number":"127",
+          "coming":"",
+          "h6":"WELLOSOPHY",
+          "span":"Prebiotic Fibre Drink",
+          "money":"£13.99",
+          "off":"£17.99",
+          "mood":"inline-block",
+          "display":"hidden"
+      }
+  ],
+  
+  "section07": [
+  {
+    "check": "True",
+    "gholi": "./public/img/07/01.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/02.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/03.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/04.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/05.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/06.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/07.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/08.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/0901.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/09.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/10.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/11.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/12.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/13.jpg"
+  },
+  {
+    "check": "True",
+    "gholi": "./public/img/07/14.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/15.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/16.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/17.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/18.jpg"
+  },
+  {
+    "check": "false",
+    "gholi": "./public/img/07/19.jpg"
+  }
+  ],
+  
+  "section10":[
+  {
+    "im":"./public/img/10/01 (1).png"
+  },
+  {
+    "im":"./public/img/10/02 (1).png"
+  },
+  {
+    "im":"./public/img/10/03 (1).png"
+  },
+  {
+    "im":"./public/img/10/04 (1).png"
+  }
+  ],
+
+  "Sfooter":[
+  {
+    "text":"SUPPORT / HELP"
+  },
+  {
+    "text":"CORPORATE INFO"
+  },
+  {
+    "text":"DISCOVER"
+  }
+  ],
+
+  "followus":[
+  {
+    "text":"fab fa-facebook",
+    "color":"text-[#1877f2]",
+    "tname":"Facebook"
+  },
+  {
+    "text":"fab fa-youtube",
+    "color":"text-[#ff0000]",
+    "tname":"YouTube"
+  },
+  {
+    "text":"fab fa-instagram",
+    "color":"text-[#f00075]",
+    "tname":"Instagram"
+  }
+  ],
+
+  "ourApps":[
+  {
+    "text":"./public/img/footer/01.jpg"
+  },
+  {
+    "text":"./public/img/footer/02.jpg"
+  },
+  {
+    "text":"./public/img/footer/03.jpg"
+  }
+  ],
+
+  "LastOfFooter":[
+  {
+    "text":"./public/img/footer/04.jpg",
+    "tname":"Visa"
+  },
+  {
+    "text":"./public/img/footer/05.jpg",
+    "tname":"MasterCards"
+  },
+  {
+    "text":"./public/img/footer/06.jpg",
+    "tname":"PayPal"
+  },
+  {
+    "text":"./public/img/footer/07.jpg",
+    "tname":"Google Play"
+  }
+  ],
+
+  "Sfoo01":[
+  {
+    "text":"Support Centre"
+  },
+  {
+    "text":"Track your order"
+  },
+  {
+    "text":"Claims & returns"
+  }
+
+  ],
+
+  "Sfoo02":[
+  {
+    "text":"Work With Us"
+  },
+  {
+    "text":"Reach Your Happy Place"
+  },
+  {
+    "text":"Sustainability"
+  },
+  {
+    "text":"Investore Relations"
+  },
+  {
+    "text":"Oriflame.com"
+  },
+  {
+    "text":"EU Declarations of Conformity"
+  }
+
+  ],
+
+  "Sfoo03":[
+  {
+    "text":"Join us as a Brand Partner"
+  },
+  {
+    "text":"Join us as a VIP Customer"
+  },
+  {
+    "text":"eCatalogue"
+  }
+  ]
+}
+
+
+
+
+
+
+
+
+
